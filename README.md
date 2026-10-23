@@ -13,9 +13,14 @@
 ---
 
 ### 🌐 Connect with me:
-www.linkedin.com/in/farjanamunni734
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/farjanamunni734" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/farjanakhatunmunni" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
 
 ### 🛠️ Languages and Tools:
 <p align="left">
