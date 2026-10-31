@@ -36,9 +36,10 @@
 
 ---
 
+
 ### 🧩 LeetCode Profile & Stats
 
-[![Farjana's LeetCode Stats](https://leetcard.jacoblin.cool/farjanaa?theme=dark&font=baloo&ext=activity)](https://leetcode.com/u/farjanaa/)
+[![Farjana's LeetCode Stats](https://leetcard.jacoblin.cool/farjanaaa?theme=dark&font=baloo&ext=activity)](https://leetcode.com/u/farjanaaa/)
 
 ---
 
